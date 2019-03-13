@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello everyone,I am a fresh bird!
+This is my first repository!
